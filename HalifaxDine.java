@@ -9,8 +9,8 @@ import java.util.ArrayList;
 
 public class HalifaxDine {
     public static void main(String[] args) {
-        String access_key_id = "ASIAUVORRQZ55L3CQJWH";
-        String secret_key_id = "kKgmFI0qJLN8zpBzUWLuoDcQQ/mHThRQETrCFz7a";
+        String access_key_id = "XXXX";
+        String secret_key_id = "XXXXX";
         String session_token = "FwoGZXIvYXdzEPv//////////wEaDJZc0zEIS2QXWtYMsSK/AQ3g+Zx7wq+vQdSc6f6kBXqkPCSaSy5O8ltq/1Sip20lBI/zCb7lZ6hEDdVaYrp6tI8m09yMmNcN7T9jodyYAECdnnQfwNILHGrQEv3CHNV/f1tFwu/WX6zkwGY1MUHl9LMRkpf9L/2XA29+GWnrebaexmziTTQEJepOk7vvhiOY9GghFF5toJ0nvlbGGPFDUu3NQbYk+ApO8w9PbAIS8w2uASxOELCohtNW6i6KkUhVgcrVe7qHQ6KBI4zwiV1YKIiti40GMi1xhafOf8byM5D9rA8TYjXfpp62zuNH87wZ6zh8cGbNc7sUehXci04tzizdNIs=";
         BasicSessionCredentials sessionCredentials = new BasicSessionCredentials(
                 access_key_id, secret_key_id, session_token);
